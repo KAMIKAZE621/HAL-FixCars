@@ -4,6 +4,7 @@
 
 設定がいろいろ あります 詳しくは Configをご確認ください 
 
+銀行または現金での払い対応です 
 
 
 また 動作させるには https://github.com/overextended/ox_libとhttps://github.com/overextended/ox_targetが必要です

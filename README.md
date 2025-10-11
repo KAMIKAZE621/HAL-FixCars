@@ -8,5 +8,7 @@
 
 また 動作させるには https://github.com/overextended/ox_libとhttps://github.com/overextended/ox_targetが必要です
 
+Uiはこちら ↓
+
 
 <img width="342" height="282" alt="スクリーンショット 2025-10-11 151727" src="https://github.com/user-attachments/assets/d7aaa1c0-1aee-49cd-a491-2db2d7499f41" />

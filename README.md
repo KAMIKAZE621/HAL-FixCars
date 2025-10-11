@@ -5,7 +5,7 @@
 設定がいろいろ あります 詳しくは Configをご確認ください 
 
 銀行または現金での払い対応です 修理中は車体が動かないよう固定されます 
-
+100%での修理はできないようにしています
 
 また 動作させるには https://github.com/overextended/ox_libとhttps://github.com/overextended/ox_targetが必要です
 

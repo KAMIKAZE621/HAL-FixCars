@@ -2,13 +2,13 @@
 .DS_Store
 Thumbs.db
 
-# FiveM cache / logs
+# FiveM
 cache/
 logs/
 
 # ox_lib
 .ox/
 
-# editor
+# Editor
 .vscode/
 .idea/

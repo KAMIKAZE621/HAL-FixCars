@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# FiveM
+cache/
+logs/
+
+# ox_lib
+.ox/
+
+# Editor
+.vscode/
+.idea/

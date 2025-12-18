@@ -1,15 +1,18 @@
-素人が作った メカニックが居ない時の為の修理台です (Qbcore)
+HAL-FixCars は、FiveM（QBCore）向けの
+「メカニック不在時のみ使用可能な修理台スクリプト」 です。
 
-一部バグや抜けている所があります 申し訳ない
+メカニックジョブがオンラインにいない場合に限り、
+プレイヤーが修理台を使って車両を修理できます。
 
-設定がいろいろ あります 詳しくは Configをご確認ください 
+📦 必須リソース（Dependencies）
 
-銀行または現金での払い対応です 修理中は車体が動かないよう固定されます 
-100%での修理はできないようにしています
+以下のリソースが 必須 です。
 
-また 動作させるには https://github.com/overextended/ox_libとhttps://github.com/overextended/ox_targetが必要です
+QBCore
 
-Uiはこちら ↓
+ox_lib
+
+ox_target
 
 
 <img width="342" height="282" alt="スクリーンショット 2025-10-11 151727" src="https://github.com/user-attachments/assets/d7aaa1c0-1aee-49cd-a491-2db2d7499f41" />

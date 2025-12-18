@@ -14,5 +14,6 @@ ox_lib
 
 ox_target
 
+一部機能や場所はご自身でお決めください
 
 <img width="342" height="282" alt="スクリーンショット 2025-10-11 151727" src="https://github.com/user-attachments/assets/d7aaa1c0-1aee-49cd-a491-2db2d7499f41" />
